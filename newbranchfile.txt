@@ -1,2 +1,2 @@
-nly shows uup in the new brach
+Shows up in Master Branch now, having merged, so akso in newbrach as well!
 
